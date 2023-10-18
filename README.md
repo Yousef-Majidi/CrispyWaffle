@@ -85,6 +85,13 @@ The changelog is available [here](https://guibranco.github.io/CrispyWaffle/chang
 <table>
 <tr>
     <td align="center">
+        <a href="https://github.com/Yousef-Majidi">
+            <img src="https://avatars.githubusercontent.com/u/28239685?v=4" width="100;" alt="Yousef-Majidi"/>
+            <br />
+            <sub><b>Yousef</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/guibranco">
             <img src="https://avatars.githubusercontent.com/u/3362854?v=4" width="100;" alt="guibranco"/>
             <br />
@@ -96,13 +103,6 @@ The changelog is available [here](https://guibranco.github.io/CrispyWaffle/chang
             <img src="https://avatars.githubusercontent.com/u/68414300?v=4" width="100;" alt="viktoriussuwandi"/>
             <br />
             <sub><b>Viktorius Suwandi</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/Yousef-Majidi">
-            <img src="https://avatars.githubusercontent.com/u/28239685?v=4" width="100;" alt="Yousef-Majidi"/>
-            <br />
-            <sub><b>Yousef</b></sub>
         </a>
     </td></tr>
 </table>
